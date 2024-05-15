@@ -1,23 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Survey Form</title>
-    <link rel="stylesheet" href="styles.css">
-  </head>
-    <h1 id="title">Survey Form</h1>
-
-    <p id="description">This is a project worked by HTML and CSS</p>
-    <form id="survy-form">
-        <input type="text" name="name" email="email" number="number" placeholder="hint">
-        <label id="name-label"></label>
-        <label id="email-label"></label>
-        <label id="email-label"></label>
-        <select id="dropdown">
-            <option></option>
-            <option></option>
-        </select>
-    </form>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Survey Form</title>
+  <link rel="stylesheet" hraf="styles.css">
+</head>
+<body>
+  <h1 id="title">Survy Form</h1>
+  <p id="description">This is a survey form created by HTML and CSS</p>
+  <form id="survey-form">
+    <div class="form-control">
+      <label for="name" id="label-name">
+        name
+      </label>
+      <input type="text" id="name" placeholder="Enter your name"/>
+    </div>
+    <div class="form-control">
+      <label for="emali" id="label-email">
+        Email
+      </label>
+      <input type="email" id="email" placeholder="Enter your email"/>
+    </div>
+    <div class="form-control">
+      <label for="number" id="label-number">
+        Number
+      </label>
+      <input type="text" id="number" placeholder="Enter your number"/>
+    </div>
+    <div class="form-control">
+      <label for="role" id="role">
+        Which option best describe you?
+      </label>
+      <select name="role" id="role">
+        <option value="student">Student</option>
+        <option value="intern">Intern</option>
+        <option value="professional">Professional</option>
+        <option value="other">Other</option>
+      </select>
+    </div>
+    <div class="form-control">
+      <label>Would you reccomend the YDTDO course to your friends
+      <input type="radio" id="reccomend-1" name="reccomend">Yes</input>
+    </label>
+    <label>Would you reccomend the YDTDO course to your friends
+    <input type="radio" id="reccomend-2" name="reccomend">No</input>
+    </label>
+    <label>Would you reccomend the YDTDO course to your friends
+      <input type="radio" id="reccomend-3" name="reccomend">Maybe Later</input>
+    </label>
+    </div>
+    <div class="form-control">
+      <label>Courses we offer
+        <small>(Check all that apply)</small>
+      </label>
+      <label for="inp-1">
+        <input type="checkbox" name="inp">
+        Digital Literacy course
+      </label>
+      <label for="inp-2">
+        <input type="checkbox" name="inp">
+        web development course
+      </label>
+      <label for="inp-3">
+        <input type="checkbox" name="inp">
+        UX/UI design course
+      </label>
+    </div>
+    <div class="form-control">
+      <label for="comment">
+      Any comments or suggestions
+    </label>
+    <textarea name="comments" id="comment" placeholder="Enter your Comments Here">
+    </textarea>
+    <button type="submit" value="submit">
+      Submit
+    </button>
+    </div>
+  </form>
 </body>
 </html>
