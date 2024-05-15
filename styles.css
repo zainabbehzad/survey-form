@@ -33,7 +33,7 @@ body {
 }
 
 .form-control input[type="radio"],
-.form-control input[type="checkbox"]{
+.form-control input[type="checkbox"] {
   display: inline-block;
   width: auto;
 }
