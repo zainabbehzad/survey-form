@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Survey Form</title>
-  <link rel="stylesheet" hraf="styles.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <h1 id="title">Survy Form</h1>
@@ -12,7 +12,7 @@
   <form id="survey-form">
     <div class="form-control">
       <label for="name" id="label-name">
-        name
+        Name
       </label>
       <input type="text" id="name" placeholder="Enter your name"/>
     </div>
@@ -20,7 +20,7 @@
       <label for="emali" id="label-email">
         Email
       </label>
-      <input type="email" id="email" placeholder="Enter your email"/>
+      <input type="email" id="email" placeholder="Enter your email" required/>
     </div>
     <div class="form-control">
       <label for="number" id="label-number">
@@ -29,10 +29,10 @@
       <input type="text" id="number" placeholder="Enter your number"/>
     </div>
     <div class="form-control">
-      <label for="role" id="role">
+      <label for="dropdown" id="dropdown">
         Which option best describe you?
       </label>
-      <select name="role" id="role">
+      <select name="dropdown" id="dropdown">
         <option value="student">Student</option>
         <option value="intern">Intern</option>
         <option value="professional">Professional</option>
