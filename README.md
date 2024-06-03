@@ -1,11 +1,8 @@
-
-<<<<<<< HEAD
 ## Project Description 📝
 
-> 🌟 👩‍💻This project is a survey form built using HTML and CSS. The form collects user information, preferences, and feedback through various input fields, dropdown menus, and a textarea. The design is clean and responsive, ensuring a seamless user experiene across different devices.💻📝🚀
+🌟 👩‍💻This project is a survey form built using HTML and CSS. The form collects user information, preferences, and feedback through various input fields, dropdown menus, and a textarea. The design is clean and responsive, ensuring a seamless user experiene across different devices.💻📝🚀
 
 ## Demo 📸
-![images](images/Screenshot%20(25).png)
 
 
 ## Technologies Used 🛠️
@@ -72,5 +69,3 @@ If you'd like to contribute to this project, follow these steps:
     git push origin feature/new-feature
 
 7: Submit a pull request: Go to the original repository on GitHub and submit a pull request with your changes.
-=======
->>>>>>> 67904d86ff6c833d2570c0169625d40300a0bb08
