@@ -5,7 +5,8 @@
 > 🌟 👩‍💻This project is a survey form built using HTML and CSS. The form collects user information, preferences, and feedback through various input fields, dropdown menus, and a textarea. The design is clean and responsive, ensuring a seamless user experiene across different devices.💻📝🚀
 
 ## Demo 📸
-![Uploading Screenshot (25).png…]()
+![Screenshot (25)](https://github.com/zainabbehzad/survey-form/assets/168668702/becc9b99-5061-4718-8f8f-92b290a42e83)
+
 
 
 ## Technologies Used 🛠️
