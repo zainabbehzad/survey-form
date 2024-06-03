@@ -20,6 +20,7 @@ To install and set up this project, simply follow these steps:
 
 Clone the repository:
 git clone (https://github.com/zainabbehzad/survey-form.git)
+
 🎉 Once you've cloned the repository, you're all set to start exploring and using the project! If you encounter any issues or have questions, feel free to reach out for assistance. 🚀
 
 ## Usage 🎯
@@ -29,7 +30,8 @@ Installation: If you haven't already, follow the installation instructions menti
 
 Navigate to project directory:
 
-cd Technical-Documentation-page
+cd survey-form
+
 Open the HTML file: Open the index.html file in your preferred web browser. You can do this by double-clicking the file or using a command-line tool like open (for macOS) or start (for Windows).
 
 Explore the documentation: Once the HTML file is opened, you'll have access to the technical documentation page. Navigate through different sections using the sidebar navigation or scroll through the content to learn about various topics.
@@ -53,8 +55,7 @@ If you'd like to contribute to this project, follow these steps:
 
 2: Clone the repository: Clone the repository to your local machine.
 
-      [git clone https://github.com/zainabbehzad/survey-form.git](https://github.com/zainabbehzad/survey-form.git)
-
+      [git clone https://github.com/zainabbehzad/survey-form.git]
 3: Create a new branch: Create a new branch with a descriptive name to work on your contribution.
 
     git checkout -b feature/new-feature
