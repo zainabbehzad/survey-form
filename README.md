@@ -1,14 +1,19 @@
-Survey-Form 🚀
-Project Description 📝
-🌟 👩‍💻This project is a survey form built using HTML and CSS. The form collects user information, preferences, and feedback through various input fields, dropdown menus, and a textarea. The design is clean and responsive, ensuring a seamless user experiene across different devices.💻📝🚀
+# Survey Form 🚀
 
-Demo 📸
-![Screenshot (25)](https://github.com/zainabbehzad/survey-form/assets/168668702/910cdd7c-62fb-49a4-92cf-ca84ea83ff17)
+## Project Description 📝
+
+> 🌟 👩‍💻This project is a survey form built using HTML and CSS. The form collects user information, preferences, and feedback through various input fields, dropdown menus, and a textarea. The design is clean and responsive, ensuring a seamless user experiene across different devices.💻📝🚀
+
+## Demo 📸
+![Uploading Screenshot (25).png…]()
 
 
-Technologies Used 🛠️
-HTML
-CSS
+## Technologies Used 🛠️
+- HTML
+- CSS
+
+## Installation 💻
+
 Installation 💻
 To install and set up this project, simply follow these steps:
 
@@ -16,7 +21,7 @@ Clone the repository:
 git clone (https://github.com/zainabbehzad/survey-form.git)
 🎉 Once you've cloned the repository, you're all set to start exploring and using the project! If you encounter any issues or have questions, feel free to reach out for assistance. 🚀
 
-Usage 🎯
+## Usage 🎯
 To use this project, follow these steps:
 
 Installation: If you haven't already, follow the installation instructions mentioned in the Installation section to clone the repository.
@@ -32,11 +37,13 @@ Modify as needed: If you'd like to customize the documentation page or add your 
 
 Share and contribute: If you find this project helpful, consider sharing it with others. You can also contribute to the project by submitting bug reports, feature requests, or pull requests to improve it for everyone.
 
-Author 👩‍💻
-LinkedIn: Zainab Behzad
-Email: (zainabbehzad03@gmail.com)
-Contributing 🤝
-Thank you for considering contributing to this project! Contributions from the community help improve the project for everyone.
+
+## Author 👩‍💻
+
+- LinkedIn: [Zainab Behzad]
+- Email: [zainabbehzad03@gmailcom)
+
+## Contributing 🤝
 
 How to Contribute
 If you'd like to contribute to this project, follow these steps:
