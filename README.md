@@ -5,6 +5,8 @@
 ## Demo 📸
 ![Screenshot (15)](https://github.com/zainabbehzad/survey-form/assets/168668702/4e043fa6-acd6-4861-a938-dfd41f948ab7)
 
+[Live Demo](https://zainabbehzad.github.io/survey-form/)
+
 
 ## Technologies Used 🛠️
 - HTML
